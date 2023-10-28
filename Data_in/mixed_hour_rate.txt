@@ -1,0 +1,11 @@
+name,numberrange,currency
+Grant Pickett,46,£32.41
+Carl Byers,29,$42.74 
+Drew Lynch,14,£42.78
+Riley Anderson,25,€26.83
+Dana Justice,20,$26.65 
+Maxwell Bell,41,$33.54 
+Linus Mcintosh,44,€13.66
+Robert Norton,11,£39.69
+Jolene Summers,35,€10.06
+Jenette Deleon,43,£30.62
